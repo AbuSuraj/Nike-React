@@ -1,0 +1,58 @@
+.header-bg{
+    background-color:#FFF9F4;
+}
+.panda-bt-buy-now{
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.btn-size{
+    width: 170px;
+    height: 60px;
+    background-color: blue;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+.orng-color{
+    color:#FA804C;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+}
+
+.navi-blue-color{
+    color: #363958;
+}
+.span-1{
+    color:#FA804C;
+    font-family: 'Bebas Neue';
+    font-weight: 700;
+    font-size: 60px;
+}
+.span-2{
+    color: #363958;
+    font-family: 'Bebas Neue';
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.card-bg-color{
+    background-color: #E5E5E5;
+   /* background-color:  drop-shadow(0px 30px 10px rgba(0, 0, 0, 0.15)); */
+}
+.font-size{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: start;
+}
